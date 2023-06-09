@@ -10,7 +10,7 @@ elif tpComb == 2:
 
 #identificando o valor de desconto para alcool
 if litros <= 20:
-    descont = 0.97
+    descont = 0.97 
 elif litros > 20:
     descont = 0.95
 #identificando o valor de desconto para alcool

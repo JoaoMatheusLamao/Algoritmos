@@ -1,4 +1,4 @@
-from random import randint
+from random import randint 
 
 nums = []
 for i in range(20):

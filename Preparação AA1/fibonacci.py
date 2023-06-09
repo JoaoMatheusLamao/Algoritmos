@@ -1,5 +1,5 @@
 a = float(input("Primeiro termo: "))
-b = float(input("Segundo termo: "))
+b = float(input("Segundo termo:  "))
 
 print(a)
 print(b)

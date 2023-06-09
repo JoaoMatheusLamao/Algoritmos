@@ -7,4 +7,4 @@ elif x <= 3:
     y = x**2
 else:
     y = x**3
-print('Valor de f(x): {}'.format(y))
+print('Valor de f(x):  {}'.format(y))
